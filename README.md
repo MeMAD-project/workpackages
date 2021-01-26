@@ -1,6 +1,6 @@
 # MeMAD Work Packages
 
-Work packages in MeMAD with links to deliverabels and results
+Work packages in MeMAD with links to deliverables and results
 
 ## Work package 4: Multimodal and multilingual machine translation
 
