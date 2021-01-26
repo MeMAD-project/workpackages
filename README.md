@@ -26,7 +26,7 @@ Helsinki: 33, Aalto: 15, Linecraft: 3, Surrey: 2, Yle: 2, Lingsoft: 1
 
 * [D4.1 Report on multimodal machine translation](https://zenodo.org/record/3690762) (M12)
 * [D4.2 Report on discourse-aware machine translation for audio-visual data](https://zenodo.org/record/3690764) (M24) 
-* D4.3 Tools and models for multimodal, multilingual and discourse-aware MT (M36) Deliverable
+* D4.3 Tools and models for multimodal, multilingual and discourse-aware MT (M36)
 * D4.4 Report on cross-lingual content retrieval based on automatic translation (M36)
 
 ### Research output and results
