@@ -35,7 +35,7 @@ Helsinki: 33, Aalto: 15, Linecraft: 3, Surrey: 2, Yle: 2, Lingsoft: 1
 * [Image caption translation](https://github.com/MeMAD-project/image-caption-translation)
 * [Speech translation](https://github.com/MeMAD-project/speech-translation)
 * [Discourse-aware machine transltion](https://github.com/MeMAD-project/doclevel-translation)
-* [Cross-lingual content retrieval]
+* [Cross-lingual content retrieval](https://github.com/MeMAD-project/cross-lingual-retrieval)
 
 Tools and Resources:
 
