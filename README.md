@@ -142,9 +142,6 @@ University of Helsinki (WP leader), Aalto University, Limecraft, University of S
 * [Speech translation](https://github.com/MeMAD-project/speech-translation)
 * [Discourse-aware machine transltion](https://github.com/MeMAD-project/doclevel-translation)
 * [Cross-lingual content retrieval](https://github.com/MeMAD-project/cross-lingual-retrieval)
-
-Tools and Resources:
-
 * [OpenSubtitles2018: a large collection of aligned movie subtitles](http://opus.nlpl.eu/OpenSubtitles-v2018.php)
 * [TED2020: Aligned TedTalk subtitles](http://opus.nlpl.eu/TED2020.php)
 * [QED: Aligned subtitles of educational videos](http://opus.nlpl.eu/QED.php)
