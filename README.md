@@ -61,6 +61,7 @@ Aalto University (WP leader), EURECOM, INA, Lingsoft, University of Helsinki, Un
 
 ### Research output and results
 
+ * [mmca collection of software](https://github.com/MeMAD-project/mmca)
  * [PicSOM](https://github.com/aalto-cbir/PicSOM)
  * [DeepCaption](https://github.com/aalto-cbir/DeepCaption)
  * [Visual storytelling](https://github.com/aalto-cbir/visual-storytelling)
