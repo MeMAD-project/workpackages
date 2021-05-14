@@ -21,16 +21,17 @@ Yle (WP leader), Limecraft, Aalto University, EURECOM, University of Surrey, Lin
 
 ### Deliverables
 
-* D1.1 Data management plan
+* [D1.1 Data management plan](https://zenodo.org/record/4327654)
 * D1.2 Collection of annotated video data to be used in following work packages
 * D1.3 Data collection and distribution platform, first version
-* D1.4 Data management plan, update 1
+* [D1.4 Data management plan, update 1](https://zenodo.org/record/4327675)
 * D1.5 Data collection and distribution platform, final version
 * D1.6 Data management plan, update 2
 * D1.7 Collection of annotations and / or video data resulting from the projec
 
 ### Research output and results
 
+[Combining and Curating Automated Metadata from Multiple Sources](https://zenodo.org/record/4058122)
 
 
 ## Work package 2: Automatic multimodal content analysis
@@ -54,7 +55,7 @@ Aalto University (WP leader), EURECOM, INA, Lingsoft, University of Helsinki, Un
 
 ### Deliverables
 
-* D2.1 Libraries and tools for multimodal content analysis
+* [D2.1 Libraries and tools for multimodal content analysis](https://zenodo.org/record/3697989)
 * D2.2 Implementations of methods adapted to enhanced human inputs
 * D2.3 Software and demonstration of human-like content description generation
 
@@ -73,7 +74,7 @@ Aalto University (WP leader), EURECOM, INA, Lingsoft, University of Helsinki, Un
  * [Face recognition](https://github.com/D2KLab/FaceRec)
  * [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)
  * [inaFaceGender](https://github.com/ina-foss/inaFaceGender)
-
+ * [Models for MeMAD language identification pipeline](https://zenodo.org/record/4486873)
 
 ## Work package 3: Media enrichment and hyperlinking
 
@@ -185,6 +186,7 @@ University of Surrey (WP leader), Limecraft, Aalto University, University of Hel
 
 ### Research output and results
 
+* [MeMAD_ Surrey dataset](https://zenodo.org/record/4727751)
 
 ## Work package 6: Integration and evaluations
 
