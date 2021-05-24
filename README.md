@@ -132,8 +132,8 @@ University of Helsinki (WP leader), Aalto University, Limecraft, University of S
 
 * [D4.1 Report on multimodal machine translation](https://zenodo.org/record/3690762)
 * [D4.2 Report on discourse-aware machine translation for audio-visual data](https://zenodo.org/record/3690764)
-* D4.3 Tools and models for multimodal, multilingual and discourse-aware MT
-* D4.4 Report on cross-lingual content retrieval based on automatic translation
+* [D4.3 Tools and models for multimodal, multilingual and discourse-aware MT](https://zenodo.org/record/4630083)
+* [D4.4 Report on cross-lingual content retrieval based on automatic translation](https://zenodo.org/record/4639513)
 
 ### Research output and results
 
